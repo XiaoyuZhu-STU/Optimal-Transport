@@ -1,23 +1,23 @@
 ## Optimal-Transport Research Library
 
 A curated list of optimal transport for Bayesian Inference publications, re-organized from Arxiv (mostly).
-# Graient Flows
+# Gradient Flows
 ## Papers
 | Title                                                                    | Team/Authors              | Venue      | Years     | Method                |
 |---|---|---|---|---|
-| [Understanding and Accelerating Particle-Based Variational Inference](https://arxiv.org/pdf/1807.01750.pdf)                        | Tsinghua, Duke            |   ICML  |   2019 |  --- |
-| [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://arxiv.org/abs/1910.06378)        | EPFL, Google Research      |   ICML 2020        | heterogeneous data (non-I.I.D)    | nonconvex/convex optimization with variance reduction   |
-| [FedBoost: A Communication-Efficient Algorithm for Federated Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/5967-Paper.pdf)    | Google Research, NYU       |   ICML 2020        | communication cost    | ensemble algorithm    |
-| [FetchSGD: Communication-Efficient Federated Learning with Sketching](https://arxiv.org/abs/2007.07682)     | UC Berkeley, JHU, Amazon   |   ICML 2020        | communication cost    | compress model updates with Count Sketch   |
-| [From Local SGD to Local Fixed-Point Methods for Federated Learning](https://arxiv.org/pdf/2004.01442.pdf)  | KAUST                      |   ICML 2020        | communication cost    |  Optimization |
+| [Stein Variational Gradient Descent as Gradient Flow](https://arxiv.org/pdf/1704.07520.pdf)      | Qiang Liu (University of Texas at Austin)           |   NIPS  |   2017 |  --- |
+| [Understanding and Accelerating Particle-Based Variational Inference](https://arxiv.org/pdf/1807.01750.pdf)      | Chang Liu (Tsinghua), Ruiyi Zhang (Duke)|   ICML  |   2019 |  --- |
+| [Riemannian Stein Variational Gradient Descent for Bayesian Inference](https://arxiv.org/pdf/1711.11216.pdf)      | Chang Liu (Tsinghua)           |   AAAI  |   2018 |  --- |
+| [Fisher information regularization schemes for Wasserstein gradient flows](https://arxiv.org/pdf/1907.02152.pdf)      | Wuchen Li(University of South Carolina) |   JCP  |   2019 |  --- |
+| [SVGD as a kernelized Wasserstein gradient flow of the chi-squared divergence](https://arxiv.org/pdf/2006.02509.pdf)      | Sinho Chewi(MIT)  |   NIPS  |   2021 |  --- |
 
 
 
+# Optimal Transport 
+## Papers
 
 
-
-
-
+## Textbooks
 
 
 
