@@ -5,15 +5,16 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 ## Papers
 | Title                                                                    | Team/Authors              | Venue      | Years     | Notes              |
 |---|---|---|---|---|
-| [Stein Variational Gradient Descent as Gradient Flow](https://arxiv.org/pdf/1704.07520.pdf)      | Qiang Liu (University of Texas at Austin)           |   NIPS  |   2017 |  --- |
-| [Understanding and Accelerating Particle-Based Variational Inference](https://arxiv.org/pdf/1807.01750.pdf),[[slides]](https://icml.cc/media/icml-2019/Slides/5103.pdf)     | Chang Liu (Tsinghua), Ruiyi Zhang (Duke)|   ICML  |   2019 |  --- |
-| [A Unified Particle-Optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/pdf/1805.11659.pdf)      | Changyou Cben (Buffalo), Ruiyi Zhang (Duck)           |   Uncertainty in AI |   2018 |  --- |
+| [Stein Variational Gradient Descent as Gradient Flow](https://arxiv.org/pdf/1704.07520.pdf)      | Qiang Liu (University of Texas at Austin)           |   NIPS  |   2017 |   |
+| [Understanding and Accelerating Particle-Based Variational Inference](https://arxiv.org/pdf/1807.01750.pdf),[[slides]](https://icml.cc/media/icml-2019/Slides/5103.pdf)     | Chang Liu (Tsinghua), Ruiyi Zhang (Duke)|   ICML  |   2019 |   |
+| [A Unified Particle-Optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/pdf/1805.11659.pdf)      | Changyou Cben (Buffalo), Ruiyi Zhang (Duck)           |   Uncertainty in AI |   2018 |   |
 | [Riemannian Stein Variational Gradient Descent for Bayesian Inference](https://arxiv.org/pdf/1711.11216.pdf)      | Chang Liu (Tsinghua)           |   AAAI  |   2018 |  --- |
 | [Fisher information regularization schemes for Wasserstein gradient flows](https://arxiv.org/pdf/1907.02152.pdf)      | Wuchen Li (University of South Carolina) |   JCP  |   2019 |  --- |
 |[Interacting Langevin Diffusions: Gradient Structure And Ensemble Kalman Sampler](https://arxiv.org/pdf/1903.08866.pdf)| Alfredo, Wuchen Li| SIAM journal on applied dynamical system| 2019 |
 | [SVGD as a kernelized Wasserstein gradient flow of the chi-squared divergence](https://arxiv.org/pdf/2006.02509.pdf)      | Sinho Chewi (MIT)  |   NIPS  |   2021 |  --- |
+| [ENTROPY DISSIPATION SEMI-DISCRETIZATION SCHEMES FOR FOKKER-PLANCK EQUATIONS](https://arxiv.org/pdf/1608.02628.pdf)      | SHUI-NEE CHOW, LUCA DIECI, WUCHEN LI  |   Journal of Dynamics and Differential Equations  |   2019 |  --- |
 |[Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference](https://arxiv.org/pdf/1811.02827.pdf)|  Luca Ambrogioni  |   NIPS  |   2018 |  --- |
-|[A note on parametric Bayesian inference via gradient flows](https://services.math.duke.edu/~jliu/research/pdf/Gao_Liu_AMSA2020.pdf)| Yuan Gao (Duke) | Annals of Mathematical Sciences and Applications| 2020 | review: summarizing several recent developments for efficient sampling methods for parameters based on Bayesian inference |
+|[A note on parametric Bayesian inference via gradient flows](https://services.math.duke.edu/~jliu/research/pdf/Gao_Liu_AMSA2020.pdf)| Yuan Gao (Duke) | Annals of Mathematical Sciences and Applications| 2020 | review: summarizing several recent developments for efficient sampling methods for parameters based on Bayesian inference ---|
 ## Textbooks
 [Gradient Flows in Metric Spaces and in the Space of Probability Measures](http://www2.stat.duke.edu/~sayan/ambrosio.pdf)
 
@@ -24,14 +25,16 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 | Title                                                                    | Team/Authors              | Venue      | Years     | Notes               |
 |---|---|---|---|---|
 | [Sinkhorn Distances: Lightspeed Computation of Optimal Transport](https://papers.nips.cc/paper/2013/file/af21d0c97db2e27e13572cbf59eb343d-Paper.pdf)      | Marco Cuturi          |   NIPS  |   2013 |  Efficient algorithm solving Wasserstein distence |
-|[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)| M Arjovsky | arXiv  reprint | 2017| --- |
-| [Wasserstein Variational Inference](https://arxiv.org/pdf/1805.11284.pdf)      | Luca Ambrogioni|   NIPS  |   2018 |  --- |
-|[Learning Generative Models with Sinkhorn Divergences](https://arxiv.org/pdf/1706.00292.pdf)| Aude Genevay |International Conference on Artificial Intelligence and Statistics|2018 | ---|
-| [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/pdf/1802.07191.pdf)      |  Eric P Xing (Carnegie Mellon University)           |   arXiv preprint  |   2018 |  --- |
+| [Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration](https://arxiv.org/pdf/1705.09634.pdf)      | Philippe Rigollet (MIT)         |   NIPS  |   2017 |  |
+|[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)| M Arjovsky | arXiv  reprint | 2017|  |
+| [Wasserstein Variational Inference](https://arxiv.org/pdf/1805.11284.pdf)      | Luca Ambrogioni|   NIPS  |   2018 |  |
+|[Learning Generative Models with Sinkhorn Divergences](https://arxiv.org/pdf/1706.00292.pdf)| Aude Genevay |International Conference on Artificial Intelligence and Statistics|2018 | |
+| [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/pdf/1802.07191.pdf)      |  Eric P Xing (Carnegie Mellon University)           |   arXiv preprint  |   2018 |   |
+| [Functional optimal transport: map estimation and domain adaptation for functional data](https://arxiv.org/pdf/2102.03895.pdf)  |  Ding Zhao(Carnegie Mellon University)         |   arXiv preprint  |   2021 |  --- |
 | [Hilbert Sinkhorn Divergence for Optimal Transport](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Hilbert_Sinkhorn_Divergence_for_Optimal_Transport_CVPR_2021_paper.pdf)      | Guangdong Xu (University of Technology Sydney) |   CVPR  |   2021 |  --- |
 | [Unnormalized optimal transport](https://pdf.sciencedirectassets.com/272570/1-s2.0-S0021999119X00212/1-s2.0-S002199911930645X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGcaCXVzLWVhc3QtMSJIMEYCIQCD3R3RJCD9j0GOpsZeP1hsl9jlNtDCiZOWx%2F1x2znW9wIhAIfODAeF0b2t%2FbLZBFnJfLbX03qnAAdks7uBzPM79km3KoMECJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMDU5MDAzNTQ2ODY1IgxOpffR6Xhz8QiGCgcq1wOyDyUtQClrqzn5aVm9r%2Fmsx2k00Bo6nRwhb4403ZkF9ZV9kCsSXRTSmxwlM3xDpKMXlP02sOxmB6ydlF8nRGHsaACXlCspAigOiPfhCHXMP5Mhu%2FLPBQx%2B6Dx0mEAlt3WiieIROJopyioN8MglDbXEbOBmHPf6mAGZz0JZW2YT7PJRSFfhrpFDM1QyQI6v0KlEVyTWLDqnw7JUw9ct%2FlOKLfkMpvlPaRy%2F21a856IwGABqUQSeIKL4Coz71dR9u7FQqr7uSikHsvU8ZVY8avok1PtEj4kpOzofcRbD2vwo7cN7x%2Bhhkfa54qqhTHbZ383xAPDOgVf7kIAx6veAA4xWYvPMO8hvjvflxMh9KSI7%2FR%2FqQoFy0WGlQVW%2B0vLjYbNNIK%2F2OXkBJxGvR6sIDhDHCdzz2n%2FLxcWtvNNU%2F6%2BFW898OFAbTlD1KMalAFkJmnMef7iJ%2F0mgjbVg4M6O1GFo6zJBpJngz2baZth2HQKM8jj8wPlTuTdThXRLdXfLeDhcpCRjolbhVQ8Wb3JU7B21jZEwNKHyNFUd7K5pr8HVlv9wKU36WXeuiDzgNVuJeiKcSMvE%2FD6Qy2Vl8IZG1DrHzbrjFPxK44EBLTpvwEMaFSyIXa37jp8wrsL0iAY6pAFOscSMS21yYTN5s5kA5hDECxU7GAP4TfyL76XNUSiZ%2FCxRSk6Pm8o3w%2FBM64mwTLbjSOn65OEZvNO5iK%2FeSc%2FUI9i9dokk72ZxC2NhCrZ%2F9jqBn15IDxGipUF8GwUdM5z8ZIgyHlAOQS2V%2B72K%2F4t59eYNt6m9ZOhE3xbzX6X8TZ3pYDZBC8BybE456RR1Qg%2FJBx%2FX6RqSrMn5CrCWjG%2Bf7uCCFQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210818T155545Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYFSZZN42%2F20210818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3732c5b596a867155b0c5be783d602fec847dd43316dca07804d2ff728114891&hash=e5ecff8d98a72ab1a5e17fc35ef91e714e3fe91897305cddbd46b0080f6615a8&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S002199911930645X&tid=spdf-2cf1002d-4390-41cf-b962-9b62b6561ac5&sid=e32e255e7f38a84ec58aee59415a09cd94f2gxrqa&type=client)      | Sinho Chewi (MIT)  |   NIPS  |   2021 |  --- |
 |[Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference](https://arxiv.org/pdf/1811.02827.pdf)|  WilfridGangbo, WuchenLi  |   JCP  |   2019 |  --- |
-
+|[COMPUTATIONS OF OPTIMAL TRANSPORT DISTANCE WITH FISHER INFORMATION REGULARIZATION](https://arxiv.org/pdf/1704.04605.pdf)|  WUCHEN LI, PENGHANG YIN  |   JSC  |   2018 |  --- |
 ## Textbooks
 [Optimal transport, old and new](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf), Cedric Villani,2008 (classic)
 
