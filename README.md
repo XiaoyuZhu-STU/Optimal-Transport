@@ -10,6 +10,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 | [A Unified Particle-Optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/pdf/1805.11659.pdf)      | Changyou Cben (Buffalo), Ruiyi Zhang (Duck)           |   Uncertainty in AI |   2018 |  --- |
 | [Riemannian Stein Variational Gradient Descent for Bayesian Inference](https://arxiv.org/pdf/1711.11216.pdf)      | Chang Liu (Tsinghua)           |   AAAI  |   2018 |  --- |
 | [Fisher information regularization schemes for Wasserstein gradient flows](https://arxiv.org/pdf/1907.02152.pdf)      | Wuchen Li (University of South Carolina) |   JCP  |   2019 |  --- |
+|[Interacting Langevin Diffusions: Gradient Structure And Ensemble Kalman Sampler](https://arxiv.org/pdf/1903.08866.pdf)| Alfredo, Wuchen Li| SIAM journal on applied dynamical system| 2019 |
 | [SVGD as a kernelized Wasserstein gradient flow of the chi-squared divergence](https://arxiv.org/pdf/2006.02509.pdf)      | Sinho Chewi (MIT)  |   NIPS  |   2021 |  --- |
 |[Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference](https://arxiv.org/pdf/1811.02827.pdf)|  Luca Ambrogioni  |   NIPS  |   2018 |  --- |
 ## Textbooks
