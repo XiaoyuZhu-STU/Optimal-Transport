@@ -66,8 +66,8 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 |[Bayesian inference under model misspecification using transport-Lagrangian distances: an application to seismic inversion ](https://arxiv.org/pdf/2105.07027.pdf)|Youssef Marzouk|arXiv preprint|2021 | |
 |[Sparse approximation of triangular transports. Part II: the infinite dimensional case](https://arxiv.org/pdf/2107.13422.pdf)|Youssef Marzouk|arXiv preprint|2021 | |
 |[Adaptive deep density approximation for Fokker-Planck equations](https://arxiv.org/pdf/2103.11181.pdf)|  Kejun Tang  |  arXiv preprint  |   2021 |   |
-
-
+|[Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections](https://arxiv.org/pdf/1905.10099.pdf)| |Marco Cuturi |NIPS| 2019|---|
+|[HINT: Hierarchical Invertible Neural Transport for Density Estimation and Bayesian Inference](https://arxiv.org/pdf/1905.10687.pdf)|Jakob Kruse| AAAI|2021|---|
 
 
 
