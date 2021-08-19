@@ -42,8 +42,10 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 |[ComputatIions of Optimal Transport Distance with Fisher Information Regularization](https://arxiv.org/pdf/1704.04605.pdf)|  WUCHEN LI, PENGHANG YIN  |   JSC  |   2018 |  --- |
 ## Textbooks
 [Optimal transport, old and new](https://cedricvillani.org/sites/dev/files/old_images/2012/08/preprint-1.pdf), Cedric Villani,2008 (classic)
+
 [Computational Optimal Transport ](https://arxiv.org/pdf/1803.00567.pdf),Marco Cuturi,2018
-[Optimal Transport for Applied Mathematicians](https://link.springer.com/content/pdf/10.1007/978-3-319-20828-2.pdf),
+
+[Optimal Transport for Applied Mathematicians](https://link.springer.com/content/pdf/10.1007/978-3-319-20828-2.pdf)
 
 # Triangular Transports Maps
 ## Papers
