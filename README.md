@@ -1,6 +1,7 @@
 ## Optimal-Transport Research Library
 
 A curated list of optimal transport for Bayesian Inference publications, re-organized from Arxiv (mostly).
+<strong>Last Update: Augst, 19th, 2021</strong>.	
 # Gradient Flows
 ## Papers
 | Title                                                                    | Team/Authors              | Venue      | Years     | Notes              |
