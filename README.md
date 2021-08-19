@@ -11,7 +11,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 |---|---|---|---|---|
 | [Stein Variational Gradient Descent as Gradient Flow](https://arxiv.org/pdf/1704.07520.pdf)      | <font color=red>Qiang Liu</font> (University of Texas at Austin)           |   NIPS  |   2017 |   |
 | [Understanding and Accelerating Particle-Based Variational Inference](https://arxiv.org/pdf/1807.01750.pdf),[[slides]](https://icml.cc/media/icml-2019/Slides/5103.pdf)     | Chang Liu (Tsinghua), Ruiyi Zhang (Duke)|   ICML  |   2019 |   |
-| [A Unified Particle-Optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/pdf/1805.11659.pdf)      | Changyou Cben (Buffalo), Ruiyi Zhang (Duck)           |   Uncertainty in AI |   2018 |   |
+| [A Unified Particle-Optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/pdf/1805.11659.pdf)      | Changyou Cben (Buffalo), Ruiyi Zhang (Duke)           |   Uncertainty in AI |   2018 |   |
 | [Riemannian Stein Variational Gradient Descent for Bayesian Inference](https://arxiv.org/pdf/1711.11216.pdf)      | Chang Liu (Tsinghua)           |   AAAI  |   2018 |  --- |
 | [Fisher information regularization schemes for Wasserstein gradient flows](https://arxiv.org/pdf/1907.02152.pdf)      | Wuchen Li (University of South Carolina) |   JCP  |   2019 |  --- |
 |[Interacting Langevin Diffusions: Gradient Structure And Ensemble Kalman Sampler](https://arxiv.org/pdf/1903.08866.pdf)| Alfredo, Wuchen Li| SIAM journal on applied dynamical system| 2019 | ---|
