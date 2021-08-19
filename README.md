@@ -57,8 +57,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 |[Sparse approximation of triangular transports. Part I: the finite dimensional case](https://arxiv.org/pdf/2006.06994.pdf)| Youssef Marzouk | arXiv preprint | 2020 |  |
 |[An adaptive transport framework for joint and conditional density estimation](https://arxiv.org/pdf/2009.10303.pdf)|Youssef Marzouk|arXiv preprint|2020 | |
 |[Bayesian inference under model misspecification using transport-Lagrangian distances: an application to seismic inversion ](https://arxiv.org/pdf/2105.07027.pdf)|Youssef Marzouk|arXiv preprint|2021 | |
-|[An adaptive transport framework for joint and conditional density estimation](Sparse approximation of triangular transports. Part II: the infinite dimensional case)|Youssef Marzouk|arXiv preprint|2021 | |
-
+|[Sparse approximation of triangular transports. Part II: the infinite dimensional case](https://arxiv.org/pdf/2107.13422.pdf)|Youssef Marzouk|arXiv preprint|2021 | |
 |[Adaptive deep density approximation for Fokker-Planck equations](https://arxiv.org/pdf/2103.11181.pdf)|  Kejun Tang  |  arXiv preprint  |   2021 |   |
 
 
