@@ -5,7 +5,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 ## Papers
 | Title                                                                    | Team/Authors              | Venue      | Years     | Notes              |
 |---|---|---|---|---|
-| [Stein Variational Gradient Descent as Gradient Flow](https://arxiv.org/pdf/1704.07520.pdf)      | <font color= red> Qiang Liu </font> (University of Texas at Austin)           |   NIPS  |   2017 |   |
+| [Stein Variational Gradient Descent as Gradient Flow](https://arxiv.org/pdf/1704.07520.pdf)      | <font color=blue>Qiang Liu</font> (University of Texas at Austin)           |   NIPS  |   2017 |   |
 | [Understanding and Accelerating Particle-Based Variational Inference](https://arxiv.org/pdf/1807.01750.pdf),[[slides]](https://icml.cc/media/icml-2019/Slides/5103.pdf)     | Chang Liu (Tsinghua), Ruiyi Zhang (Duke)|   ICML  |   2019 |   |
 | [A Unified Particle-Optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/pdf/1805.11659.pdf)      | Changyou Cben (Buffalo), Ruiyi Zhang (Duck)           |   Uncertainty in AI |   2018 |   |
 | [Riemannian Stein Variational Gradient Descent for Bayesian Inference](https://arxiv.org/pdf/1711.11216.pdf)      | Chang Liu (Tsinghua)           |   AAAI  |   2018 |  --- |
