@@ -40,7 +40,33 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 [Computational Optimal Transport ](https://arxiv.org/pdf/1803.00567.pdf),Marco Cuturi,2018
 [Optimal Transport for Applied Mathematicians](https://link.springer.com/content/pdf/10.1007/978-3-319-20828-2.pdf),
 
-# Youssef Group
+# Triangular transports
+## Papers
+| Title                                                                    | Team/Authors              | Venue      | Years     | Notes              |
+|---|---|---|---|---|
+
+|[From Knothe’s Rearrangement to Brenier’s Optimal Transport Map](https://arxiv.org/pdf/1205.1099.pdf)|  Nicolas Bonnotte |  SIAM J. Math. Anal  |   2012 |   |
+| [Bayesian Inference with Optimal Maps](https://arxiv.org/pdf/1109.1516.pdf)      | Youssef Marzouk           |   JCP  |   2012 |   |
+| [Variational inference via decomposable transports: algorithms for Bayesian filtering and smoothing](http://www.approximateinference.org/accepted/SpantiniEtAl2016.pdf)   |Youssef Marzouk|   NIPS  |   2016 |   |
+| [A multiscale strategy for Bayesian inference using transport maps](https://arxiv.org/pdf/1507.07024.pdf)      | Youssef Marzouk           |   USIAM on UQ |   2016 |   |
+| [Adaptive construction of measure transports for Bayesian inference](http://www.limitcycle.it/dabi/data/pub/2016/NIPS/2016%20%20Adaptive%20construction%20of%20measure%20transports%20for%20Bayesian%20inference.pdf)      | Youssef Marzouk           |   NIPS on Approximation Inference  |   2016 |  |
+| [An introduction to sampling via measure transport](https://arxiv.org/pdf/1602.05023.pdf)      | Youssef Marzouk) |   Handbook on UQ  |   2016 |   |
+|[Transport map accelerated Markov chain Monte Carlo](https://arxiv.org/pdf/1412.5492.pdf)| Youssef Marzouk|        JMLR     |2018 | |
+| [Inference via Low-Dimensional Couplings](jmlr.org/papers/volume19/17-747/17-747.pdf)      | Youssef Marzouk  |   NIPS  |   2019 |   |
+| [A transport-based multifidelity preconditioner for Markov chain Monte Carlo](https://arxiv.org/pdf/1808.09379.pdf)      | Youssef Marzouk  |  Advances in Computational Mathematics   |   2019 |   |
+|[Greedy inference with structure-exploiting lazy maps](https://arxiv.org/pdf/1906.00031.pdf)|  Youssef Marzouk  |   NIPS  |   2020 |   |
+|[Sparse approximation of triangular transports. Part I: the finite dimensional case](https://arxiv.org/pdf/2006.06994.pdf)| Youssef Marzouk | arXiv preprint | 2020 |  |
+|[An adaptive transport framework for joint and conditional density estimation](https://arxiv.org/pdf/2009.10303.pdf)|Youssef Marzouk|arXiv preprint|2020 | |
+|[Bayesian inference under model misspecification using transport-Lagrangian distances: an application to seismic inversion ](https://arxiv.org/pdf/2105.07027.pdf)|Youssef Marzouk|arXiv preprint|2021 | |
+|[An adaptive transport framework for joint and conditional density estimation](Sparse approximation of triangular transports. Part II: the infinite dimensional case)|Youssef Marzouk|arXiv preprint|2021 | |
+
+|[Adaptive deep density approximation for Fokker-Planck equations](https://arxiv.org/pdf/2103.11181.pdf)|  Kejun Tang  |  arXiv preprint  |   2021 |   |
+
+
+
+
+
+
 
 
 
