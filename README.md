@@ -68,7 +68,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 |[Adaptive deep density approximation for Fokker-Planck equations](https://arxiv.org/pdf/2103.11181.pdf)|  Kejun Tang  |  arXiv preprint  | 2021 |   |
 |[Subspace Detours: Building Transport Plans that are Optimal on Subspace Projections](https://arxiv.org/pdf/1905.10099.pdf) |Marco Cuturi       |NIPS|2019|---|
 |[HINT: Hierarchical Invertible Neural Transport for Density Estimation and Bayesian Inference](https://arxiv.org/pdf/1905.10687.pdf)|Jakob Kruse| AAAI|2021|---|
-
+|[VAE-KRNET AND ITS APPLICATIONS TO VARIATIONAL](https://arxiv.org/pdf/2006.16431.pdf)|XIAOLIANG WAN||2021|arXiv||2021||
 
 
 
