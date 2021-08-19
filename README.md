@@ -54,7 +54,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 |[From Knothe’s Rearrangement to Brenier’s Optimal Transport Map](https://arxiv.org/pdf/1205.1099.pdf)|  Nicolas Bonnotte |  SIAM J. Math. Anal  |   2012 |   |
 | [Bayesian Inference with Optimal Maps](https://arxiv.org/pdf/1109.1516.pdf)      | Youssef Marzouk           |   JCP  |   2012 |   |
 | [Variational inference via decomposable transports: algorithms for Bayesian filtering and smoothing](http://www.approximateinference.org/accepted/SpantiniEtAl2016.pdf)   |Youssef Marzouk|   NIPS  |   2016 |   |
-| [A multiscale strategy for Bayesian inference using transport maps](https://arxiv.org/pdf/1507.07024.pdf)      | Youssef Marzouk           |   USIAM on UQ |   2016 |   |
+| [A multiscale strategy for Bayesian inference using transport maps](https://arxiv.org/pdf/1507.07024.pdf)      | Youssef Marzouk           |   SIAM on UQ |   2016 |   |
 | [Adaptive construction of measure transports for Bayesian inference](http://www.limitcycle.it/dabi/data/pub/2016/NIPS/2016%20%20Adaptive%20construction%20of%20measure%20transports%20for%20Bayesian%20inference.pdf)      | Youssef Marzouk           |   NIPS on Approximation Inference  |   2016 |  |
 | [An introduction to sampling via measure transport](https://arxiv.org/pdf/1602.05023.pdf)      | Youssef Marzouk) |   Handbook on UQ  |   2016 |   |
 |[Transport map accelerated Markov chain Monte Carlo](https://arxiv.org/pdf/1412.5492.pdf)| Youssef Marzouk|        JMLR     |2018 | |
