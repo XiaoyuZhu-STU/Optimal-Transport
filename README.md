@@ -30,7 +30,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 |---|---|---|---|---|
 | [Sinkhorn Distances: Lightspeed Computation of Optimal Transport](https://papers.nips.cc/paper/2013/file/af21d0c97db2e27e13572cbf59eb343d-Paper.pdf)      | Marco Cuturi          |   NIPS  |   2013 |  Efficient algorithm solving Wasserstein distence |
 | [Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration](https://arxiv.org/pdf/1705.09634.pdf)      | Philippe Rigollet (MIT)         |   NIPS  |   2017 |  |
-|[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)| M Arjovsky | arXiv  reprint | 2017|  |
+|[Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)| M Arjovsky | arXiv  preprint | 2017|  |
 | [Wasserstein Variational Inference](https://arxiv.org/pdf/1805.11284.pdf)      | Luca Ambrogioni|   NIPS  |   2018 |  |
 |[Learning Generative Models with Sinkhorn Divergences](https://arxiv.org/pdf/1706.00292.pdf)| Aude Genevay |International Conference on Artificial Intelligence and Statistics|2018 | |
 | [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/pdf/1802.07191.pdf)      |  Eric P Xing (Carnegie Mellon University)           |   arXiv preprint  |   2018 |   |
