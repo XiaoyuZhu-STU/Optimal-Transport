@@ -1,4 +1,4 @@
-## Optimal-Transport Research Library
+## Generative Models Research Library
 
 A curated list of optimal transport for Bayesian Inference publications, re-organized from Arxiv (mostly). 
 
@@ -34,6 +34,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 | [Wasserstein Variational Inference](https://arxiv.org/pdf/1805.11284.pdf)      | Luca Ambrogioni|   NIPS  |   2018 |  |
 |[Learning Generative Models with Sinkhorn Divergences](https://arxiv.org/pdf/1706.00292.pdf)| Aude Genevay |International Conference on Artificial Intelligence and Statistics|2018 | |
 | [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/pdf/1802.07191.pdf)      |  Eric P Xing (Carnegie Mellon University)           |   arXiv preprint  |   2018 |   |
+| [Inverse Optimal Transport](https://arxiv.org/pdf/1905.03950.pdf)      |  ANDREW M. STUART          |   SIAM  |   2019 |   |
 | [Functional optimal transport: map estimation and domain adaptation for functional data](https://arxiv.org/pdf/2102.03895.pdf)  |  Ding Zhao(Carnegie Mellon University)         |   arXiv preprint  |   2021 |  --- |
 | [Hilbert Sinkhorn Divergence for Optimal Transport](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Hilbert_Sinkhorn_Divergence_for_Optimal_Transport_CVPR_2021_paper.pdf)      | Guangdong Xu (University of Technology Sydney) |   CVPR  |   2021 |  --- |
 | [Unnormalized optimal transport](https://pdf.sciencedirectassets.com/272570/1-s2.0-S0021999119X00212/1-s2.0-S002199911930645X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGcaCXVzLWVhc3QtMSJIMEYCIQCD3R3RJCD9j0GOpsZeP1hsl9jlNtDCiZOWx%2F1x2znW9wIhAIfODAeF0b2t%2FbLZBFnJfLbX03qnAAdks7uBzPM79km3KoMECJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMDU5MDAzNTQ2ODY1IgxOpffR6Xhz8QiGCgcq1wOyDyUtQClrqzn5aVm9r%2Fmsx2k00Bo6nRwhb4403ZkF9ZV9kCsSXRTSmxwlM3xDpKMXlP02sOxmB6ydlF8nRGHsaACXlCspAigOiPfhCHXMP5Mhu%2FLPBQx%2B6Dx0mEAlt3WiieIROJopyioN8MglDbXEbOBmHPf6mAGZz0JZW2YT7PJRSFfhrpFDM1QyQI6v0KlEVyTWLDqnw7JUw9ct%2FlOKLfkMpvlPaRy%2F21a856IwGABqUQSeIKL4Coz71dR9u7FQqr7uSikHsvU8ZVY8avok1PtEj4kpOzofcRbD2vwo7cN7x%2Bhhkfa54qqhTHbZ383xAPDOgVf7kIAx6veAA4xWYvPMO8hvjvflxMh9KSI7%2FR%2FqQoFy0WGlQVW%2B0vLjYbNNIK%2F2OXkBJxGvR6sIDhDHCdzz2n%2FLxcWtvNNU%2F6%2BFW898OFAbTlD1KMalAFkJmnMef7iJ%2F0mgjbVg4M6O1GFo6zJBpJngz2baZth2HQKM8jj8wPlTuTdThXRLdXfLeDhcpCRjolbhVQ8Wb3JU7B21jZEwNKHyNFUd7K5pr8HVlv9wKU36WXeuiDzgNVuJeiKcSMvE%2FD6Qy2Vl8IZG1DrHzbrjFPxK44EBLTpvwEMaFSyIXa37jp8wrsL0iAY6pAFOscSMS21yYTN5s5kA5hDECxU7GAP4TfyL76XNUSiZ%2FCxRSk6Pm8o3w%2FBM64mwTLbjSOn65OEZvNO5iK%2FeSc%2FUI9i9dokk72ZxC2NhCrZ%2F9jqBn15IDxGipUF8GwUdM5z8ZIgyHlAOQS2V%2B72K%2F4t59eYNt6m9ZOhE3xbzX6X8TZ3pYDZBC8BybE456RR1Qg%2FJBx%2FX6RqSrMn5CrCWjG%2Bf7uCCFQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210818T155545Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYYFSZZN42%2F20210818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3732c5b596a867155b0c5be783d602fec847dd43316dca07804d2ff728114891&hash=e5ecff8d98a72ab1a5e17fc35ef91e714e3fe91897305cddbd46b0080f6615a8&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S002199911930645X&tid=spdf-2cf1002d-4390-41cf-b962-9b62b6561ac5&sid=e32e255e7f38a84ec58aee59415a09cd94f2gxrqa&type=client)      | Sinho Chewi (MIT)  |   NIPS  |   2021 |  --- |
@@ -44,7 +45,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 [Computational Optimal Transport ](https://arxiv.org/pdf/1803.00567.pdf),Marco Cuturi,2018
 [Optimal Transport for Applied Mathematicians](https://link.springer.com/content/pdf/10.1007/978-3-319-20828-2.pdf),
 
-# Triangular transports
+# Triangular Transports Maps
 ## Papers
 | Title                                                                    | Team/Authors              | Venue      | Years     | Notes              |
 |---|---|---|---|---|
