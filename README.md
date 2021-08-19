@@ -44,7 +44,6 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 ## Papers
 | Title                                                                    | Team/Authors              | Venue      | Years     | Notes              |
 |---|---|---|---|---|
-
 |[From Knothe’s Rearrangement to Brenier’s Optimal Transport Map](https://arxiv.org/pdf/1205.1099.pdf)|  Nicolas Bonnotte |  SIAM J. Math. Anal  |   2012 |   |
 | [Bayesian Inference with Optimal Maps](https://arxiv.org/pdf/1109.1516.pdf)      | Youssef Marzouk           |   JCP  |   2012 |   |
 | [Variational inference via decomposable transports: algorithms for Bayesian filtering and smoothing](http://www.approximateinference.org/accepted/SpantiniEtAl2016.pdf)   |Youssef Marzouk|   NIPS  |   2016 |   |
