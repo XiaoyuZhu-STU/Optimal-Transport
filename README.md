@@ -5,6 +5,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 <strong>Last Update: Augst, 19th, 2021</strong>.	 
 
  If you have any suggestions,  please email to zhuxy3@shanghaitech.edu.cn
+ # Gradient Flows
 ## Papers
 | Title                                                                    | Team/Authors              | Venue      | Years     | Notes              |
 |---|---|---|---|---|
