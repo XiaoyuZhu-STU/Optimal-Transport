@@ -18,7 +18,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 | [SVGD as a kernelized Wasserstein gradient flow of the chi-squared divergence](https://arxiv.org/pdf/2006.02509.pdf)      | Sinho Chewi (MIT)  |   NIPS  |   2021 |  --- |
 | [ENTROPY DISSIPATION SEMI-DISCRETIZATION SCHEMES FOR FOKKER-PLANCK EQUATIONS](https://arxiv.org/pdf/1608.02628.pdf)      | SHUI-NEE CHOW, LUCA DIECI, WUCHEN LI  |   Journal of Dynamics and Differential Equations  |   2019 |  --- |
 |[Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference](https://arxiv.org/pdf/1811.02827.pdf)|  Luca Ambrogioni  |   NIPS  |   2018 |  --- |
-|[A note on parametric Bayesian inference via gradient flows](https://services.math.duke.edu/~jliu/research/pdf/Gao_Liu_AMSA2020.pdf)| Yuan Gao (Duke) | Annals of Mathematical Sciences and Applications| 2020 | review: summarizing several recent developments for efficient sampling methods for parameters based on Bayesian inference ---|
+|[A note on parametric Bayesian inference via gradient flows](https://services.math.duke.edu/~jliu/research/pdf/Gao_Liu_AMSA2020.pdf)| Yuan Gao (Duke) | Annals of Mathematical Sciences and Applications| 2020 | review: summarizing several rescent developments for efficient sampling methods for parameters based on Bayesian inference ---|
 ## Textbooks
 [Gradient Flows in Metric Spaces and in the Space of Probability Measures](http://www2.stat.duke.edu/~sayan/ambrosio.pdf)
 
