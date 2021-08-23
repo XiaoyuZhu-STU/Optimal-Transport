@@ -14,12 +14,12 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 | [A Unified Particle-Optimization Framework for Scalable Bayesian Sampling](https://arxiv.org/pdf/1805.11659.pdf)      | Changyou Cben (Buffalo), Ruiyi Zhang (Duke)           |   Uncertainty in AI |   2018 |   |
 | [Riemannian Stein Variational Gradient Descent for Bayesian Inference](https://arxiv.org/pdf/1711.11216.pdf)      | Chang Liu (Tsinghua)           |   AAAI  |   2018 |  --- |
 | [Fisher information regularization schemes for Wasserstein gradient flows](https://arxiv.org/pdf/1907.02152.pdf)      | Wuchen Li (University of South Carolina) |   JCP  |   2019 |  --- |
-|[Interacting Langevin Diffusions: Gradient Structure And Ensemble Kalman Sampler](https://arxiv.org/pdf/1903.08866.pdf)| Alfredo, Wuchen Li| SIAM journal on applied dynamical system| 2019 | ---|
+|[Interacting Langevin Diffusions: Gradient Structure And Ensemble Kalman Sampler](https://arxiv.org/pdf/1903.08866.pdf)| Alfredo, Wuchen Li | SIAM journal on applied dynamical system| 2019 | ---|
 | [SVGD as a kernelized Wasserstein gradient flow of the chi-squared divergence](https://arxiv.org/pdf/2006.02509.pdf)      | Sinho Chewi (MIT)  |   NIPS  |   2021 |  --- |
-| [ENTROPY DISSIPATION SEMI-DISCRETIZATION SCHEMES FOR FOKKER-PLANCK EQUATIONS](https://arxiv.org/pdf/1608.02628.pdf)      | SHUI-NEE CHOW, LUCA DIECI, WUCHEN LI  |   Journal of Dynamics and Differential Equations  |   2019 |  --- |
+| [ENTROPY DISSIPATION SEMI-DISCRETIZATION SCHEMES FOR FOKKER-PLANCK EQUATIONS](https://arxiv.org/pdf/1608.02628.pdf)      | SHUI-NEE CHOW, LUCA DIECI, WUCHEN LI ( * )  |   Journal of Dynamics and Differential Equations  |   2019 |  --- |
 |[Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference](https://arxiv.org/pdf/1811.02827.pdf)|  Luca Ambrogioni  |   NIPS  |   2018 |  --- |
 |[A note on parametric Bayesian inference via gradient flows](https://services.math.duke.edu/~jliu/research/pdf/Gao_Liu_AMSA2020.pdf)| Yuan Gao (Duke) | Annals of Mathematical Sciences and Applications| 2020 | review: summarizing several rescent developments for efficient sampling methods for parameters based on Bayesian inference ---|
-|[Gibbs flow for approximate transport with applications to Bayesian computation](https://arxiv.org/pdf/1509.08787.pdf)|  Jeremy Heng |   Journal of the Royal Statistical Society:Series B  |   2021 |  --- |
+|[Gibbs flow for approximate transport with applications to Bayesian computation](https://arxiv.org/pdf/1509.08787.pdf)|  Jeremy Heng, Arnaud Doucet ( * ) |   Journal of the Royal Statistical Society:Series B  |   2021 |  --- |
 ## Textbooks
 [Gradient Flows in Metric Spaces and in the Space of Probability Measures](http://www2.stat.duke.edu/~sayan/ambrosio.pdf)
 
