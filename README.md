@@ -47,7 +47,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 
 [Optimal Transport for Applied Mathematicians](https://link.springer.com/content/pdf/10.1007/978-3-319-20828-2.pdf)
 
-# Triangular Transports Maps
+# Triangular Transport Maps
 ## Papers
 | Title                                                                    | Team/Authors              | Venue      | Years     | Notes              |
 |---|---|---|---|---|
