@@ -2,7 +2,7 @@
 
 A curated list of optimal transport for Bayesian Inference publications, re-organized from Arxiv (mostly). 
 
-<strong>Last Update: Augst, 19th, 2021</strong>.	 
+<strong>Last Update: Augst, 23th, 2021</strong>.	 
 
  If you have any suggestions,  please email to zhuxy3@shanghaitech.edu.cn
  # Gradient Flows
@@ -19,6 +19,7 @@ A curated list of optimal transport for Bayesian Inference publications, re-orga
 | [ENTROPY DISSIPATION SEMI-DISCRETIZATION SCHEMES FOR FOKKER-PLANCK EQUATIONS](https://arxiv.org/pdf/1608.02628.pdf)      | SHUI-NEE CHOW, LUCA DIECI, WUCHEN LI  |   Journal of Dynamics and Differential Equations  |   2019 |  --- |
 |[Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference](https://arxiv.org/pdf/1811.02827.pdf)|  Luca Ambrogioni  |   NIPS  |   2018 |  --- |
 |[A note on parametric Bayesian inference via gradient flows](https://services.math.duke.edu/~jliu/research/pdf/Gao_Liu_AMSA2020.pdf)| Yuan Gao (Duke) | Annals of Mathematical Sciences and Applications| 2020 | review: summarizing several rescent developments for efficient sampling methods for parameters based on Bayesian inference ---|
+|[Gibbs flow for approximate transport with applications to Bayesian computation](https://arxiv.org/pdf/1509.08787.pdf)|  Jeremy Heng |   Journal of the Royal Statistical Society  |   2021 |  --- |
 ## Textbooks
 [Gradient Flows in Metric Spaces and in the Space of Probability Measures](http://www2.stat.duke.edu/~sayan/ambrosio.pdf)
 
